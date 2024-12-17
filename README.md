@@ -162,13 +162,13 @@ p.note { display: none; }
 <h2><span class="yellow">パイプの詰まりを予防する薬品、すごく分かりやすい容器デザインです</span></h2>
 <a href="IMG_1894.HEIC" target="_blank"><img src="IMG_1894.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">同じ国道をちょっとなんかした所にある「Big C」</span></h2>
+<h2><span class="yellow">同じ国道をちょっと南下した所にある「Big C」</span></h2>
 <a href="IMG_1895.HEIC" target="_blank"><img src="IMG_1895.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">こちらは市内にあるようなショッピングセンターの超巨大版</span></h2>
 <a href="IMG_1896.HEIC" target="_blank"><img src="IMG_1896.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">入ってすぐのところには王室崇拝の飾り物</span></h2>
+<h2><span class="yellow">入ってすぐのところには王室崇拝のお供え物</span></h2>
 <a href="IMG_1897.HEIC" target="_blank"><img src="IMG_1897.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">車も売ります</span></h2>
@@ -184,7 +184,7 @@ p.note { display: none; }
 <h2><span class="yellow">日本の味はここにも進出中でした</span></h2>
 <a href="IMG_1902.HEIC" target="_blank"><img src="IMG_1902.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">金のお店もかなり立派でした</span></h2>
+<h2><span class="yellow">金のお店もかなり立派です</span></h2>
 <a href="IMG_1903.HEIC" target="_blank"><img src="IMG_1903.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">携帯関連のお店は多数進出</span></h2>
@@ -192,7 +192,7 @@ p.note { display: none; }
 <a href="IMG_1905.HEIC" target="_blank"><img src="IMG_1905.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1906.HEIC" target="_blank"><img src="IMG_1906.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">どこに行っても必ずある「CASIO」</span></h2>
+<h2><span class="yellow">どこに行っても必ずある「CASIO」は本物です</span></h2>
 <a href="IMG_1907.HEIC" target="_blank"><img src="IMG_1907.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1908.HEIC" target="_blank"><img src="IMG_1908.HEIC" alt="サンプル画像" width="900" /></a>
 
