@@ -128,13 +128,12 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">場所はメーチャン市街から西に5分ほど車で走ったところ<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">１件目はその名も「MEGA HOME」<br>GoogleMapsをそのまま埋め込みましたので、うまく使えば地図が開きます</span></h2>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1734436825936!6m8!1m7!1spf8h3giBO4xmdw814CQNDQ!2m2!1d19.97917084087386!2d99.8600927728914!3f153.8335840194333!4f8.031007255462725!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<a href="https://www.google.com/maps/@20.1172836,99.7980841,14.85z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="IMG_1883.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">大きな売店（お土産さん）もありました</span></h2>
+<h2><span class="yellow">日本のホームセンターを巨大にしたようなお店でした</span></h2>
 
 <a href="IMG_1883.HEIC" target="_blank"><img src="IMG_1883.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1884.HEIC" target="_blank"><img src="IMG_1884.HEIC" alt="サンプル画像" width="900" /></a>
