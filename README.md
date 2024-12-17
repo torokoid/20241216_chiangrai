@@ -130,7 +130,9 @@ p.note { display: none; }
 
 <h2><span class="yellow">場所はメーチャン市街から西に5分ほど車で走ったところ<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<a href="https://www.google.com/maps/@20.1172836,99.7980841,14.85z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="https://www.google.com/maps/@19.9791708,99.8600928,3a,75y,164.84h,95.97t/data=!3m7!1e1!3m5!1spf8h3giBO4xmdw814CQNDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.965606851729561%26panoid%3Dpf8h3giBO4xmdw814CQNDQ%26yaw%3D164.83692080510838!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" alt="サンプル画像" width="900" /></a>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1734436825936!6m8!1m7!1spf8h3giBO4xmdw814CQNDQ!2m2!1d19.97917084087386!2d99.8600927728914!3f153.8335840194333!4f8.031007255462725!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<a href="https://www.google.com/maps/@20.1172836,99.7980841,14.85z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="IMG_1883.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">大きな売店（お土産さん）もありました</span></h2>
 
