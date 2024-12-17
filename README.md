@@ -138,32 +138,72 @@ p.note { display: none; }
 <a href="IMG_1883.HEIC" target="_blank"><img src="IMG_1883.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1884.HEIC" target="_blank"><img src="IMG_1884.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1885.HEIC" target="_blank"><img src="IMG_1885.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">冷房設備は天井に設置された巨大なシステム</span></h2>
 <a href="IMG_1886.HEIC" target="_blank"><img src="IMG_1886.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1887.HEIC" target="_blank"><img src="IMG_1887.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">冷房能力をコントルールするというより、何機動かすかで冷やし方を調整しているようでした</span></h2>
 <a href="IMG_1888.HEIC" target="_blank"><img src="IMG_1888.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">室内用の仏壇は、初めて見ました</span></h2>
 <a href="IMG_1889.HEIC" target="_blank"><img src="IMG_1889.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">高圧容器は個人所有して、中身だけ業者から買うシステムのようです</span></h2>
 <a href="IMG_1890.HEIC" target="_blank"><img src="IMG_1890.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">軍人さんたちも制服のままお買い物</span></h2>
 <a href="IMG_1891.HEIC" target="_blank"><img src="IMG_1891.HEIC" alt="サンプル画像" width="900" /></a>
-<a href="IMG_1892.HEIC" target="_blank"><img src="IMG_1892.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ろうそくもLED化して火災予防</span></h2>
 <a href="IMG_1893.HEIC" target="_blank"><img src="IMG_1893.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1892.HEIC" target="_blank"><img src="IMG_1892.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">パイプの詰まりを予防する薬品、すごく分かりやすい容器デザインです</span></h2>
 <a href="IMG_1894.HEIC" target="_blank"><img src="IMG_1894.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">同じ国道をちょっとなんかした所にある「Big C」</span></h2>
 <a href="IMG_1895.HEIC" target="_blank"><img src="IMG_1895.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">こちらは市内にあるようなショッピングセンターの超巨大版</span></h2>
 <a href="IMG_1896.HEIC" target="_blank"><img src="IMG_1896.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">入ってすぐのところには王室崇拝の飾り物</span></h2>
 <a href="IMG_1897.HEIC" target="_blank"><img src="IMG_1897.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">車も売ります</span></h2>
 <a href="IMG_1898.HEIC" target="_blank"><img src="IMG_1898.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">暑い中移動したのでアイスコーヒー</span></h2>
 <a href="IMG_1899.HEIC" target="_blank"><img src="IMG_1899.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1900.HEIC" target="_blank"><img src="IMG_1900.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">55バーツ ≒ 250円</span></h2>
 <a href="IMG_1901.HEIC" target="_blank"><img src="IMG_1901.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">日本の味はここにも進出中でした</span></h2>
 <a href="IMG_1902.HEIC" target="_blank"><img src="IMG_1902.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">金のお店もかなり立派でした</span></h2>
 <a href="IMG_1903.HEIC" target="_blank"><img src="IMG_1903.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">携帯関連のお店は多数進出</span></h2>
 <a href="IMG_1904.HEIC" target="_blank"><img src="IMG_1904.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1905.HEIC" target="_blank"><img src="IMG_1905.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1906.HEIC" target="_blank"><img src="IMG_1906.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">どこに行っても必ずある「CASIO」</span></h2>
 <a href="IMG_1907.HEIC" target="_blank"><img src="IMG_1907.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1908.HEIC" target="_blank"><img src="IMG_1908.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">同じフロア内にあるスーパーも超巨大</span></h2>
 <a href="IMG_1909.HEIC" target="_blank"><img src="IMG_1909.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">レジのお姉さんはクリスマスの飾り付けでした</span></h2>
 <a href="IMG_1910.HEIC" target="_blank"><img src="IMG_1910.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1911.HEIC" target="_blank"><img src="IMG_1911.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">仏壇もおしゃれな感じでしっかりありました</span></h2>
 <a href="IMG_1912.HEIC" target="_blank"><img src="IMG_1912.HEIC" alt="サンプル画像" width="900" /></a>
 
 
